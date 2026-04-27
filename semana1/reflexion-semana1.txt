@@ -1,0 +1,12 @@
+Usar bien la información en internet es como cuando uno no comparte chismes sin confirmar: revisas la fuente, citas de dónde salió y no metes datos falsos. La participación ciudadana es lo mismo pero en el barrio: opinas, propones y escuchas, sabiendo que lo que dices afecta a todos.  
+
+
+
+
+
+Y Git es igualito, pero con código. Ahí cada persona aporta, deja claro qué cambió, por qué lo hizo y lo revisa con otros antes de dañar el proyecto. Si alguien mete algo mal sin avisar, todo el equipo se cae.  
+
+
+
+
+Al final, sea en redes, en la junta de acción comunal o en Git, lo responsable es no trabajar a escondidas, respetar el aporte del otro y dejar rastro de lo que haces. Sin confianza y sin orden, ni la comunidad ni el código funcionan.
